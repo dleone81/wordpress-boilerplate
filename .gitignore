@@ -1,0 +1,6 @@
+## vagrant
+/.vagrant/
+*.log
+
+#wordpress
+web/dev/wordpress/
