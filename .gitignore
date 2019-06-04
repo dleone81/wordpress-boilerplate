@@ -2,5 +2,6 @@
 /.vagrant/
 *.log
 
-#wordpress
-web/dev/wordpress/
+# Wordpress
+web/dev/
+!/web/dev/info.php
